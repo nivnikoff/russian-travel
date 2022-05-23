@@ -1,0 +1,32 @@
+.places {
+  max-width: 984px;
+  margin: 0 auto;
+  display: grid;
+  row-gap: 80px;
+}
+
+@media screen and (max-width: 1280px) {
+  .places {
+    width: calc(100% - 196px);
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .places {
+    width: calc(100% - 96px);
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .places {
+    width: calc(100% - 48px);
+    row-gap: 73px;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .places {
+    width: 100%;
+    row-gap: 50px;
+  }
+}
