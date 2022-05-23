@@ -12,4 +12,5 @@
 * Работа с макетом проекта в Figma.
 
 ## Ссылка на работу на GitHub Pages
+[nivnikoff.github.io/russian-travel/](https://nivnikoff.github.io/russian-travel/)
 
