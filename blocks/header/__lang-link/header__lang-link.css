@@ -9,12 +9,8 @@
   transition: opacity .5s linear;
 }
 
-.header__lang-link:first-of-type {
-  text-decoration: underline;
-}
-
 .header__lang-link:hover {
-  opacity: 70%;
+  opacity: 80%;
 }
 
 @media screen and (max-width: 425px) {

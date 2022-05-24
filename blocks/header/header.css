@@ -16,7 +16,7 @@
 
 @media screen and (max-width: 768px) {
   .header {
-    width: cal(100% - 48px);
+    width: calc(100% - 48px);
   }
 }
 
@@ -24,5 +24,6 @@
     .header {
       grid-template-columns: auto repeat(2, 22px);
       width: calc(100% - 32px);
+      padding-top: 16px;
     }
 }
